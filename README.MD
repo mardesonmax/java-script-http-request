@@ -4,15 +4,15 @@
 
 <p  align="center">
   <a href="#-tecnologias">Tecnologias</a> <span>&nbsp;&nbsp;●&nbsp;&nbsp;</span>
-  <a href="#-como-utilizar">Como Utilizar</a> 
+  <a href="#-utilizar">Utilizar</a> 
 <p>
 
-## 💻️ Tecnologias
+## 💻 Tecnologias
 
 - HTML
 - JavaScript
 
-## 🚀️ Como Utilizar
+## 📄 Utilizar
 
 - Importar httpRequest em seu arquivo html
 
