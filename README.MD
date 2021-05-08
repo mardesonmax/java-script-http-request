@@ -3,8 +3,8 @@
 <p align="center">Utilizando HttpRequest para requisições GET e POST na api do GITHUB.</p>
 
 <p  align="center">
-  <a href="# tecnologias">Tecnologias</a> <span>&nbsp;&nbsp;●&nbsp;&nbsp;</span>
-  <a href="#como-utilizar">Como Utilizar</a> 
+  <a href="#-tecnologias">Tecnologias</a> <span>&nbsp;&nbsp;●&nbsp;&nbsp;</span>
+  <a href="#-como-utilizar">Como Utilizar</a> 
 <p>
 
 ## 💻️ Tecnologias
